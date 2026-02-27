@@ -48,6 +48,6 @@ Based on the initial findings, I moved to a more advanced Residual U-Net (ResUne
 
 This poster summarizes the research conducted on denoising images from single-photon detectors, a key aspect of the QIS simulation work. It provides a visual overview of the problem, methodology, and key findings.
 
-[View the Research Poster](cvgi_poster.png)
+[View the Research Poster](https://cvgi-website.vercel.app/2025/research/single-photon-detector/)
 
 This repository reflects my journey through different deep learning architectures for computer vision, demonstrating an iterative and research-driven approach to model development.
