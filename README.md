@@ -44,4 +44,10 @@ Based on the initial findings, I moved to a more advanced Residual U-Net (ResUne
 2.  **Examine the training scripts** in `src/training/` to understand how the models were trained.
 3.  **Load a pre-trained model** from the `weights/` directory and use the scripts in `archive/scripts` as a reference for running inference.
 
+## Research Poster
+
+This poster summarizes the research conducted on denoising images from single-photon detectors, a key aspect of the QIS simulation work. It provides a visual overview of the problem, methodology, and key findings.
+
+[View the Research Poster](cvgi_poster.png)
+
 This repository reflects my journey through different deep learning architectures for computer vision, demonstrating an iterative and research-driven approach to model development.
